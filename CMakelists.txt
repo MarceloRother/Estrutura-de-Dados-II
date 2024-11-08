@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.18)
+project(hello LANGUAGES CXX)
+
+add_library(Message Message.cpp)
+
+target_include_directories(Message PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
+
+add_executable(hello helloWorld.cpp)
+
+target_link_libraries(hello Message)
+

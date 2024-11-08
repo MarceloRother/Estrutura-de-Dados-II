@@ -1,0 +1,4 @@
+/mnt/c/Users/marce/Documents/Marcelo/UFJF/ED2/ex01/CMakeFiles/Message.dir
+/mnt/c/Users/marce/Documents/Marcelo/UFJF/ED2/ex01/CMakeFiles/hello.dir
+/mnt/c/Users/marce/Documents/Marcelo/UFJF/ED2/ex01/CMakeFiles/edit_cache.dir
+/mnt/c/Users/marce/Documents/Marcelo/UFJF/ED2/ex01/CMakeFiles/rebuild_cache.dir
